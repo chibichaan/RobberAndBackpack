@@ -95,7 +95,7 @@ namespace RobberAndBackpack
 
                 MakeAllSets(newItems);
             }
-        }
+        } //проверка
         /// <summary>
         /// возвращает решение задачи (набор предметов)
         /// </summary>
